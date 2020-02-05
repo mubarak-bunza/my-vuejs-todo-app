@@ -1,5 +1,5 @@
 <template>
-     <footer class="">
+     <footer class="text-center">
         <p>Coded by <a href="https://github.com/mubarak-bunza">M. A. Bunza</a></p>
     </footer>
 </template>
