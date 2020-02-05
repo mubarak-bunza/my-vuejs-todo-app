@@ -15,7 +15,7 @@
     </div>
     <div class="row pb-5">
         <div class="col-md">
-            <div class="card">
+            <div class="card mb-3">
                 <div class="card-header">
                     Things To Do
                 </div>
@@ -39,7 +39,7 @@
         </div>
 
         <div class="col-md">
-            <div class="card">
+            <div class="card mb-3">
                 <div class="card-header">
                     Doing
                 </div>
@@ -63,7 +63,7 @@
         </div>
 
         <div class="col-md">
-            <div class="card">
+            <div class="card mb-3">
                 <div class="card-header">
                     Done
                 </div>
@@ -98,7 +98,7 @@
                         status: 'todo'
                     },
                     {
-                        text: 'Practice how to consume API',
+                        text: 'How to consume API',
                         status: 'doing'
                     },
                     {
